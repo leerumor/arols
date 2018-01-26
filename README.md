@@ -1,4 +1,4 @@
-AROLS (Adaptive recommendation based on Online Learning Style)
+Adaptive recommendation based on Online Learning Style
 ========
 
 AROLS is an open source platform for adaptive online learning. Quickly register or create your own courses to simplify everyone's study with our powerful, intelligent recommendation engine.
