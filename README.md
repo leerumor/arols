@@ -12,4 +12,4 @@ AROLS project uses the [OULAD](https://analyse.kmi.open.ac.uk/open_dataset) data
 
 AROLS prototype
 ========
-For more information, see [AROLS Frontend]() and [AROLS Backend]().
+For more information, see [AROLS Frontend](https://github.com/leerumor/arols-frontend) and [AROLS Backend](https://github.com/leerumor/arols-backend).
