@@ -10,6 +10,6 @@ AROLS project uses the [OULAD](https://analyse.kmi.open.ac.uk/open_dataset) data
 * LSTM-AROLS: make recommendations to a cluster of learners by generating a deep artificial network based on LSTM.
 
 
-AROLS prototype
+AROLS WEB
 ========
-For more information, see [AROLS Frontend](https://github.com/leerumor/arols-frontend) and [AROLS Backend](https://github.com/leerumor/arols-backend).
+For more information, see [AROLS WEB](https://github.com/leerumor/arolsweb).
